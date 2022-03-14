@@ -11,7 +11,7 @@ A Work Day Scheduler that allows you to save planned activities
 *Javascript
 
 ## Website
-
+https://enderx1221.github.io/Work-Day-Scheduler/
 
 ## Contribution
 Made by [Javier Razo]
